@@ -31,21 +31,20 @@ main section {
 main .image1 {
   grid-area: image1;
   background-image: url(assets/images/virat1.png);
-
 }
 main .image2 {
   grid-area: image2;
-  background-image: url(/assets/images/virat2.jpg);
+  background-image: url(./assets/images/virat2.jpg);
 }
 main .image3 {
   grid-area: image3;
-  background-image: url(/assets/images/rohit3.jpg);
+  background-image: url(./assets/images/rohit3.jpg);
 }
 main .image4 {
   grid-area: image4;
-  background-image: url(/assets/images/KL-rahul4.jpg);
+  background-image: url(./assets/images/kl-rahul4.jpg);
 }
 main .image5 {
   grid-area: image5;
-  background-image: url(/assets/images/abhishek5.jpg);
+  background-image: url(./assets/images/abhishek5.jpg);
 }/*# sourceMappingURL=style.css.map */
